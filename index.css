@@ -1,0 +1,16 @@
+.d-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#test_div{
+    position: absolute;
+    background-color: red;
+    height: 400px;
+    width: 400px;
+
+    bottom: 20%;
+    right: 40%;
+
+}
